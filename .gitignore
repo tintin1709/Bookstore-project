@@ -1,0 +1,9 @@
+/target/
+/backend/target/
+*.class
+*.log
+.env
+.idea/
+.vscode/
+.DS_Store
+node_modules/
