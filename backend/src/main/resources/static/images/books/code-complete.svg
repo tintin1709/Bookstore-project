@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="420">
+  <rect width="320" height="420" fill="#8B4513"/>
+  <rect x="10" y="10" width="300" height="400" fill="#FFF" stroke="#333" stroke-width="2"/>
+  <text x="160" y="175" font-size="20" font-weight="bold" text-anchor="middle" fill="#8B4513">Code Complete</text>
+  <text x="160" y="210" font-size="14" text-anchor="middle" fill="#333">Practical Handbook</text>
+  <text x="160" y="230" font-size="14" text-anchor="middle" fill="#333">of Software</text>
+  <text x="160" y="250" font-size="14" text-anchor="middle" fill="#333">Construction</text>
+  <text x="160" y="370" font-size="12" text-anchor="middle" fill="#666">Steve McConnell</text>
+</svg>

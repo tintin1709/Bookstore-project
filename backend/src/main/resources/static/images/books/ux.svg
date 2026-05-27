@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="420">
+  <rect width="320" height="420" fill="#EF5350"/>
+  <rect x="10" y="10" width="300" height="400" fill="#FFF" stroke="#333" stroke-width="2"/>
+  <text x="160" y="180" font-size="24" font-weight="bold" text-anchor="middle" fill="#EF5350">User</text>
+  <text x="160" y="205" font-size="24" font-weight="bold" text-anchor="middle" fill="#EF5350">Experience</text>
+  <text x="160" y="230" font-size="14" text-anchor="middle" fill="#333">Designing for Humans</text>
+  <text x="160" y="370" font-size="12" text-anchor="middle" fill="#666">Robert Martin</text>
+</svg>
